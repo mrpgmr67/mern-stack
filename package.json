@@ -26,7 +26,7 @@
   "dependencies": {
     "body-parser": "^1.19.0",
     "bootstrap": "^4.5.2",
-    "concurrently": "^6.0.0",
+    "concurrently": "^6.5.1",
     "express": "^4.17.1",
     "i": "^0.3.7",
     "mongoose": "^5.13.9",
