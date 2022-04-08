@@ -11,8 +11,8 @@
     "redux-thunk": "^2.4.1",
     "react-scripts": "3.4.4",
     "react-redux": "^7.2.6",
-    "redux": "^4.1.2",
-  },
+    "redux": "^4.1.2"
+    },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
